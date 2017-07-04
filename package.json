@@ -1,0 +1,14 @@
+{
+  "name": "Computer Science for Interviews",
+  "version": "0.1.0",
+  "description": "Computer Science for Interviews Module for General Assembly's WDI Program",
+  "repository": {
+    "type": "git",
+    "url": "https://git.generalassemb.ly/education-product/module-apf"
+  },
+  "author": "General Assembly <immersiveadmins@generalassemb.ly>",
+  "scripts": {
+    "start": "gitbook serve",
+    "postinstall": "gitbook install"
+  }
+}
